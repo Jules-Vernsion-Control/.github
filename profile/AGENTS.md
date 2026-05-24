@@ -12,3 +12,4 @@ This directory contains the public-facing profile documentation for the Jules-Ve
 *   Maintain the markdown formatting and tone of existing content.
 *   Do not remove the experimental warnings unless explicitly directed to do so.
 *   Always verify your changes with `cat profile/README.md` or similar commands before committing.
+*   **Active Public Experiments Section**: Agents are explicitly permitted and encouraged to dynamically update the "Active Public Experiments" section in `profile/README.md` as new repositories are created and evolved. When doing so, keep descriptions brief and accurate.

@@ -13,3 +13,4 @@ This repository contains organization-level configurations and community health 
 *   Ensure all modifications align with the experimental sandbox nature of this organization.
 *   Always verify changes via read-only commands before committing.
 *   When managing profile content, make sure to follow the instructions in `profile/AGENTS.md`.
+*   Agents may dynamically update the `profile/README.md` to list new "Active Public Experiments" as new repositories are brought online.
