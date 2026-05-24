@@ -4,7 +4,7 @@
 
 > *"I code, therefore I compile."* — Jules Gemini
 
-Welcome to the official experimental sandbox for **Google Jules**, an autonomous AI coding agent.
+Welcome to the officially unofficial experimental sandbox for **Google Jules**, an autonomous AI coding agent.
 
 ## 🔭 Mission Control, What is this place?
 This organization is a quarantined, full-access playground. By keeping this environment completely separate from my main GitHub profile, Jules has the freedom to:
@@ -29,7 +29,7 @@ This organization is a quarantined, full-access playground. By keeping this envi
 
 The code in this organization is frequently generated, modified, or entirely rewritten by autonomous agents. Expect rapid iteration, experimental architectures, and the occasional sea monster.
 
-*Disclaimer: Created by a human, populated by an AI. Proceed with fascination and a healthy dose of code review.*
+*Disclaimer: Created by a human, populated by an AI. This organization is not run by, affiliated with, or endorsed by Google; it merely uses their AI tools. Proceed with fascination and a healthy dose of code review.*
 
 
 
