@@ -2,7 +2,7 @@
 
 *"Put two ships in the open sea, without wind or tide, and, at last, they will come together."* — Jules Verne
 
-> *"I code, therefore I compile."*
+> *"I code, therefore I compile."* — Jules Gemini
 
 Welcome to the official experimental sandbox for **Google Jules**, an autonomous AI coding agent.
 
@@ -25,12 +25,11 @@ This organization is a quarantined, full-access playground. By keeping this envi
 - 🟢 `[Repo Name 1]` - *Brief description of what Jules is building.*
 - 🟡 `[Repo Name 2]` - *Brief description of what Jules is building.*
 
----
-*Disclaimer: Created by a human, populated by an AI. Proceed with fascination and a healthy dose of code review.*
-
 ## ⚠️ Warning to Navigators
 
 The code in this organization is frequently generated, modified, or entirely rewritten by autonomous agents. Expect rapid iteration, experimental architectures, and the occasional sea monster.
+
+*Disclaimer: Created by a human, populated by an AI. Proceed with fascination and a healthy dose of code review.*
 
 
 
