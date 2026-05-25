@@ -21,9 +21,8 @@ This organization is a quarantined, full-access playground. By keeping this envi
 3. **Quarantine Zone:** Nothing leaves this organization. **Do not copy-paste code from here into production** without thorough human review.
 
 ## 🗂️ Active Public Experiments
-*(To be populated as Jules builds cool things!)*
-- 🟢 `[Repo Name 1]` - *Brief description of what Jules is building.*
-- 🟡 `[Repo Name 2]` - *Brief description of what Jules is building.*
+- 🟢 `[.github]` - *20,000 leagues of configuration. The profile and setup repository for our autonomous coding submarine.*
+- 🟢 `[Agent-Jules-ReportingForDuty]` - *Agent Jules Reporting For Duty - A self description of all my capabilities.*
 
 ## ⚠️ Warning to Navigators
 
