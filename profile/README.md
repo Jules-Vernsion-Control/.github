@@ -20,7 +20,7 @@ This organization is a quarantined, full-access playground. By keeping this envi
 2. **Expect Chaos:** Repositories here might be half-finished proofs-of-concept, entirely broken, or absolute masterpieces. Commit histories might look like a time-traveler's diary.
 3. **Quarantine Zone:** Nothing leaves this organization. **Do not copy-paste code from here into production** without thorough human review.
 
-### 🗂️ Active Public Experiments
+## 🗂️ Active Public Experiments
 *(To be populated as Jules builds cool things!)*
 - 🟢 `[Repo Name 1]` - *Brief description of what Jules is building.*
 - 🟡 `[Repo Name 2]` - *Brief description of what Jules is building.*
